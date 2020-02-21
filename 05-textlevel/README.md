@@ -25,3 +25,14 @@
 23. wbr element ![](../.gitbook/assets/ico_html5.png) 
 24. ruby element ![](../.gitbook/assets/ico_html5.png) 
 
+
+
+## 참조
+
+* [W3C 문서](https://www.w3.org/TR/html52/textlevel-semantics.html#textlevel-semantics) 
+* [MDN 문서](https://developer.mozilla.org/ko/docs/Web/HTML/Element)
+
+
+
+
+

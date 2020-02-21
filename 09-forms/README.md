@@ -15,3 +15,11 @@
 13. fieldset element
 14. legend element
 
+
+
+## 참조
+
+* [W3C 문서](https://www.w3.org/TR/html52/sec-forms.html#sec-forms) 
+* [MDN 문서](https://developer.mozilla.org/ko/docs/Web/HTML/Element) 
+* [Explicit and Implicit Form Labels](https://cccaccessibility.org/web/web-developer-tutorials/explicit-and-implicit-form-labels)
+

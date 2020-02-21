@@ -9,3 +9,10 @@
 7. aside element ![](../.gitbook/assets/ico_html5.png)
 8. hgroup element ![](../.gitbook/assets/ico_html5.png)
 
+
+
+## 참조
+
+* [W3C 문서](https://www.w3.org/TR/html52/sections.html#sections) 
+* [MDN 문서](https://developer.mozilla.org/ko/docs/Web/HTML/Element)
+

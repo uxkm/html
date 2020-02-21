@@ -11,3 +11,10 @@
 9. th element
 10. td element
 
+
+
+## 참조
+
+* [W3C 문서](https://www.w3.org/TR/html52/tabular-data.html#the-table-element) 
+* [MDN 문서](https://developer.mozilla.org/ko/docs/Web/HTML/Element)
+
