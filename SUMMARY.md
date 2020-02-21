@@ -41,7 +41,7 @@
   * [7.1. del\(Deleted Text\) element](07-edits/01-del_element.md)
   * [7.2. ins\(insert\) element](07-edits/02-ins_element.md)
 * [8. 표 데이터\(Tabular data\)](08-table.md)
-* [9. 폼\(forms\)](9.-forms.md)
+* [9. 폼\(forms\)](09-forms.md)
 * [10. HTML 문서구조](10-structure/README.md)
   * [10.1. HTML4에서의 문서 구조](10-structure/01-html4_document.md)
   * [10.2. HTML5에서의 문서 구조](10-structure/02-html5_document.md)
